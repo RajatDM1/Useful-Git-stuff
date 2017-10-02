@@ -1,1 +1,1 @@
-A list of useful git commands and utilities.n
+A list of useful git commands and utilities.
